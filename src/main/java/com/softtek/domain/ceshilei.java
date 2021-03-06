@@ -11,4 +11,5 @@ public class ceshilei {
     private String h;
     private String ha;
     private Integer a;
+    private Integer b;
 }
