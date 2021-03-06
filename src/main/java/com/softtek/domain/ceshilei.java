@@ -10,4 +10,5 @@ public class ceshilei {
     private String sex;
     private String h;
     private String ha;
+    private Integer a;
 }
