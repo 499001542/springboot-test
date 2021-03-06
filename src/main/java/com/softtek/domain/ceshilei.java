@@ -6,4 +6,5 @@ package com.softtek.domain;
  */
 public class ceshilei {
     private String name;
+    private Integer age;
 }
